@@ -28,11 +28,11 @@ The purpose of this project is to use Javascript to :
 
 
 ## Live
-https://umukulthum.github.io/password-generator
+[Click here](https://umukulthum.github.io/password-generator) for the deployed url 
 
 
 ## Repository
-https://github.com/Umukulthum/password-generator
+[Click here](https://github.com/Umukulthum/password-generator) for the project's GitHub repository
 
 
 [page-1]: assets/images/05-javascript-challenge-demo.png
