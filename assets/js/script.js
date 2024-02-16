@@ -122,6 +122,12 @@ function getPasswordOptions() {
     let numericCheck = confirm("Click OK to include numerics");
     let specialCharCheck = confirm("Click OK to include special characters");
 
+    //Validated the selected criteria ensuring that at least one of the character type is selected
+    if (lowercaseCheck + uppercaseCheck + numericCheck + specialCharCheck < 1 ) { 
+        alert("Kindly select at least one character option");
+        return null;
+    }
+
     //Store input in an array
     const arrayCharacters = [
         { characters: lowerCasedCharacters, isSelected: lowercaseCheck },

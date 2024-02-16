@@ -36,3 +36,4 @@ https://github.com/Umukulthum/password-generator
 
 
 [page-1]: assets/images/05-javascript-challenge-demo.png
+
